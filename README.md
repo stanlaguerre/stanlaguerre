@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **stanlaguerre3@gmail.com**
 
-- ⚡ Fun fact **I'm a recent chess player**
+- ⚡ Fun fact **I'm currently going through the front-end software dev track on Codecademy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
