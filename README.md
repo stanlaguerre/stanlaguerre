@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Standly Laguerre</h1>
-<h3 align="center">Recent CS & Math Graduate | Aspiring Software Developer & Cybersecurity Enthusiast</h3>
+<h3 align="center">Recent CS & Math Graduate | Aspiring Software Developer</h3>
 
 - 🔭 I’m currently working on **personal projects and job applications**
 
